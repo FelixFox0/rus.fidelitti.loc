@@ -1,0 +1,16 @@
+---------- Date: 2017-07-12 20:43:07 ~ IP : 213.110.102.155 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+

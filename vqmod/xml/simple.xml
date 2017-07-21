@@ -1,0 +1,14 @@
+                <modification>
+                    <name>simple url rewrite</name>
+                    <code>simple url rewrite</code>
+                    <version>1.0.0</version>
+                    <author>deeman</author>
+                    <link>http://simpleopencart.com</link>
+
+                    <file path="catalog/controller/startup/startup.php">
+                        <operation>
+                            <search><![CDATA[new Url]]></search>
+                            <add position="after"><![CDATA[$this->url->addRewrite(new Simple\Rewrite($this->config));]]></add>
+                        </operation>
+                    </file>
+                </modification>

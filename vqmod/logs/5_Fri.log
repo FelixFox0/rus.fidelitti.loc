@@ -1,0 +1,27 @@
+---------- Date: 2017-07-21 12:29:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : C:\OpenServer\domains\rus.fidelitti.com\vqmod/xml/CityManager.xml
+   id        : 
+   version   : 6.0
+   vqmver    : 
+   author    : Roman Shipilov
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/register.php,catalog/controller/checkout/payment_address.php,catalog/controller/checkout/shipping_address.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{cart,confirm}.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/russian/russian.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/english/english.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{simplecheckout,simplecheckout_cart}.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : C:\OpenServer\domains\rus.fidelitti.com\vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+VQModObject::parseMods - Could not resolve path for [admin/language/ro-ro/ro-ro.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/en-gb/common/menu.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

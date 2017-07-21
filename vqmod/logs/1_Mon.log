@@ -1,0 +1,15 @@
+---------- Date: 2017-07-03 16:19:07 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /index.php?route=checkout/simplecheckout&group=0
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+
+File Name    : catalog/model/checkout/order.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->event->trigger('post.order.add', $order_id);
+
+----------------------------------------------------------------------
+
+

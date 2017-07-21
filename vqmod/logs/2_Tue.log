@@ -1,0 +1,352 @@
+---------- Date: 2017-07-04 07:33:21 ~ IP : 213.231.53.124 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 08:10:40 ~ IP : 213.231.53.124 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/dostavkaplus.ocmod.xml
+   id        : 
+   version   : 3.4
+   vqmver    : 
+   author    : louise170 (louise@ya.ru)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{cart,confirm}.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/russian/russian.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/english/english.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{simplecheckout,simplecheckout_cart}.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+VQModObject::parseMods - Could not resolve path for [admin/language/ro-ro/ro-ro.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/en-gb/common/menu.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 08:19:25 ~ IP : 213.231.53.124 ----------
+REQUEST URI : /deliverys
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/lazyload.xml
+   id        : Lazy Load
+   version   : OC 2
+   vqmver    : 2.5.0
+   author    : Equotix
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): </head>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 08:54:28 ~ IP : 195.230.115.45 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/salerno_white
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 09:44:19 ~ IP : 213.231.53.124 ----------
+REQUEST URI : /ru-ru/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/CityManager.xml
+   id        : 
+   version   : 6.0
+   vqmver    : 
+   author    : Roman Shipilov
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/register.php,catalog/controller/checkout/payment_address.php,catalog/controller/checkout/shipping_address.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{cart,confirm}.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/russian/russian.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/english/english.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{simplecheckout,simplecheckout_cart}.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+VQModObject::parseMods - Could not resolve path for [admin/language/ro-ro/ro-ro.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/en-gb/common/menu.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 09:46:38 ~ IP : 213.231.53.124 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/CityManager.xml
+   id        : 
+   version   : 6.0
+   vqmver    : 
+   author    : Roman Shipilov
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/register.php,catalog/controller/checkout/payment_address.php,catalog/controller/checkout/shipping_address.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{cart,confirm}.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/russian/russian.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/english/english.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{simplecheckout,simplecheckout_cart}.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+VQModObject::parseMods - Could not resolve path for [admin/language/ro-ro/ro-ro.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/en-gb/common/menu.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 10:45:09 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 10:59:07 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/tondo_mini_white_v2
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 11:14:26 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/tondo_mini_white_v2
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/CityManager.xml
+   id        : 
+   version   : 6.0
+   vqmver    : 
+   author    : Roman Shipilov
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/register.php,catalog/controller/checkout/payment_address.php,catalog/controller/checkout/shipping_address.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{cart,confirm}.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/russian/russian.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/english/english.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{simplecheckout,simplecheckout_cart}.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+VQModObject::parseMods - Could not resolve path for [admin/language/ro-ro/ro-ro.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/en-gb/common/menu.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 11:22:34 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /index.php?route=checkout/simplecheckout&group=0
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+
+File Name    : catalog/model/checkout/order.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->event->trigger('post.order.add', $order_id);
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 11:29:56 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 13:01:57 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /index.php?route=checkout/cart/add
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/CityManager.xml
+   id        : 
+   version   : 6.0
+   vqmver    : 
+   author    : Roman Shipilov
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/register.php,catalog/controller/checkout/payment_address.php,catalog/controller/checkout/shipping_address.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{cart,confirm}.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/russian/russian.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/english/english.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/controller/checkout/{simplecheckout,simplecheckout_cart}.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+VQModObject::parseMods - Could not resolve path for [admin/language/ro-ro/ro-ro.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/en-gb/common/menu.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 13:01:58 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /simplecheckout/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/zitec_dpd.ocmod.xml
+   id        : Zitec DPD - VQMod verion extension
+   version   : 1.0.1
+   vqmver    : 2.x
+   author    : Zitec
+
+File Name    : catalog/model/checkout/order.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->event->trigger('post.order.add', $order_id);
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 13:02:04 ~ IP : 213.231.53.124 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/product_series_template_default.xml
+   id        : Product Series - template - default
+   version   : 1.6
+   vqmver    : 2.1.6
+   author    : WeDoWeb.com.au | contact@wedoweb.com.au
+
+File Name    : catalog/view/theme/fidelitti/template/product/category.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <a href="<?php echo $product['href']; ?>">
+            <div class="sub_category__product--line"></div>
+          </a>
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 14:32:48 ~ IP : 185.32.62.242 ----------
+REQUEST URI : /dlya-zhenshchin/sumki/tondo_bluesky_v2
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-07-04 15:08:52 ~ IP : 213.231.53.124 ----------
+REQUEST URI : /index.php?route=product/quick_view&product_id=449
+MOD DETAILS:
+   modFile   : /var/www/user3794/data/www/rus.fidelitti.com/vqmod/xml/braine.xml
+   id        : Brainy Filter
+   version   : Ultimate 5.1.1 OC2.3
+   vqmver    : 
+   author    : Giant Leap Lab
+
+File Name    : catalog/controller/product/*.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->model_catalog_product->getProducts($filter_data)
+
+----------------------------------------------------------------------
+
+
